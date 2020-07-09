@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Exequiel 👋🏾</h1>
+<h1 align="center"> Hey there, I'm Exequiel 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
@@ -7,7 +7,7 @@
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
 </p>
 
-<h2 align="center"> Co-Founder | DevOps Cloud Engineer @ Binbash (www.binbash.com.ar) ☁️🚀✨</h2>
+<h2 align="center"> Co-Founder | DevOps Cloud Engineer @ Binbash (www.binbash.com.ar) 🚀☁️✨</h2>
 <p align="center">
   <a href="https://github.com/binbashar">Github Organization</a> •
   <a href="https://www.binbash.com.com">Site</a> •
@@ -16,12 +16,6 @@
 </p>
 
 ---
-
-<!--
-**Easybuoy/Easybuoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 **Exequiel** is an IT passionate Telecommunications Engineer with over 10 years of professional experience administering, configuring, monitoring and supporting IT Production Infrastructures. During his career he has worked in several Mobile Communications, VoIP Security and Software development projects mainly under Open-Source Linux techs as Support Engineer, SysAdmin, DevOps, Cloud Solutions Architect, IP/MPLS Project Leader and Certification Tech Instructor.
 
@@ -32,10 +26,10 @@ He loves learning as much as he enjoys teaching.
 <!-- <br /> -->
 
 
-- 👨🏾‍💻 I’m always looking to collaborate on Open Source Projects
-- 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
-- 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on https://leveverage.binbash.com.ar
-- 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
-- ⚡ Fun fact: I play Table Tennis and do Capoeira
+- [x] 👨‍💻 I’m always looking to collaborate on Open Source Projects
+- [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
+- [x] 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
+- [x] 😄 Pronouns: He/Him
+- [x] 🔭 I’m currently working on https://leveverage.binbash.com.ar
+- [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
+- [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
