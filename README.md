@@ -1,16 +1,18 @@
-<h2 align="center"> Hey there, I'm Exequiel 👋🏾</h2>
+<h1 align="center"> Hey there, I'm Exequiel 👋🏾</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero">StackOverflow</a> •
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
-  <a href="https://hub.docker.com/u/exequielrafaela">A Cloud Guru</a> •
-  <a href="https://github.com/binbashar">Github Organization</a> •
-  <a href="https://www.binbash.com.com">Startup: Binbash</a> •
-  <a href="https://leverage.binbash.com.com">Product: Leverage</a> 
-  <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub Repos</a> •
+</p>
 
+<h2 align="center"> Co-Founder | DevOps Cloud Engineer @ Binbash (www.binbash.com.ar) ☁️🚀✨</h2>
+<p align="center">
+  <a href="https://github.com/binbashar">Github Organization</a> •
+  <a href="https://www.binbash.com.com">Site</a> •
+  <a href="https://leverage.binbash.com.com">Product | Leverage</a> •
+  <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub Repos</a> 
 </p>
 
 ---
