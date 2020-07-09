@@ -9,7 +9,7 @@
 
 <h2 align="center"> Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com.com">Binbash</a> 🚀☁️✨</h2>
 <p align="center">
-  <a href="https://leverage.binbash.com.com">Leverage</a> •
+  <a href="https://leverage.binbash.com.com">Our Product</a> •
   <a href="https://github.com/binbashar">Github Organization</a> •
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub Repos</a> 
 </p>
