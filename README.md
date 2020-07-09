@@ -4,14 +4,14 @@
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero">StackOverflow</a> •
-  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
+  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> 
 </p>
 
 <h2 align="center"> Co-Founder | DevOps Cloud Engineer @ Binbash (www.binbash.com.ar) 🚀☁️✨</h2>
 <p align="center">
   <a href="https://github.com/binbashar">Github Organization</a> •
-  <a href="https://www.binbash.com.com">Site</a> •
-  <a href="https://leverage.binbash.com.com">Product | Leverage</a> •
+  <a href="https://www.binbash.com.com">Binbash</a> •
+  <a href="https://leverage.binbash.com.com">Leverage</a> •
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub Repos</a> 
 </p>
 
@@ -26,7 +26,7 @@ He loves learning as much as he enjoys teaching.
 <!-- <br /> -->
 
 
-- [x] 👨‍💻 I’m always looking to collaborate on Open Source Projects
+- [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
 - [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
 - [x] 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
 - [x] 😄 Pronouns: He/Him
