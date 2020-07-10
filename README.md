@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://leverage.binbash.com.com">Our Product</a> •
   <a href="https://github.com/binbashar">Github Organization</a> •
-  <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub Repos</a> 
+  <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
 </p>
 
 ---
