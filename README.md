@@ -32,4 +32,4 @@ He loves learning as much as he enjoys teaching.
 - [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
 - [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=exequielrafaela/exequielrafaela)
