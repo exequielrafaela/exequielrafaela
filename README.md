@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there, I'm Exequiel 👋</h1>
+<h1 align="center"> Hey there, I'm Exequiel 👋 👨‍💻</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
@@ -23,6 +23,11 @@ Multicultural and foreign experiences have endowed him with proven communication
 He loves learning as much as he enjoys teaching.
 
 ---
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
+
+---
 
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
 - [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
@@ -31,5 +36,3 @@ He loves learning as much as he enjoys teaching.
 - [x] 🔭 I’m currently working on https://leveverage.binbash.com.ar
 - [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
 - [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=exequielrafaela/exequielrafaela)
