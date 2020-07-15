@@ -12,7 +12,7 @@
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero">StackOverflow</a> •
-  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a>
+  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
