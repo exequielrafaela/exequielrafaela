@@ -1,3 +1,5 @@
+<img align='right' src="https://cliply.co/wp-content/uploads/2019/03/371903250_ROCKET_LAUNCH_400px.gif" width="200">
+
 <h1 align="center"> 
  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="128">
  Hey there, I'm Exequiel 
@@ -12,8 +14,6 @@
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero">StackOverflow</a> •
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> 
 </p>
-
-<img align='right' src="https://cliply.co/wp-content/uploads/2019/03/371903250_ROCKET_LAUNCH_400px.gif" width="200">
 
 <h2 align="center"> 
  Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com.com">Binbash</a> 🚀☁️✨</h2>
