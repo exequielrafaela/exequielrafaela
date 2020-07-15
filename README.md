@@ -37,6 +37,7 @@ He loves learning as much as he enjoys teaching.
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Shell-258%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Groovy-67%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/TeX-9%20commits-orange.svg" alt=""></a>
+[![HitCount](http://hits.dwyl.com/exequielrafaela/exequielrafaela.svg)](http://hits.dwyl.com/exequielrafaela/exequielrafaela)
 
 ---
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
@@ -47,4 +48,3 @@ He loves learning as much as he enjoys teaching.
 - [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
 - [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
 
-[![HitCount](http://hits.dwyl.com/exequielrafaela/exequielrafaela.svg)](http://hits.dwyl.com/exequielrafaela/exequielrafaela)
