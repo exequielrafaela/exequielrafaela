@@ -1,4 +1,5 @@
-<h1 align="center"> Hey there, I'm Exequiel 👋 👨‍💻</h1>
+<h1 align="center"> Hey there, I'm Exequiel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ 👨‍💻</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
@@ -24,8 +25,6 @@ He loves learning as much as he enjoys teaching.
 
 ---
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
 
 ---
 
