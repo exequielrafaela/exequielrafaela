@@ -32,11 +32,17 @@ He loves learning as much as he enjoys teaching.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://avatars2.githubusercontent.com/u/18539704?v=4" height="50px" width="50px" alt=""/></a>
+
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Python-309%20commits-orange.svg" alt=""></a>
+
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Shell-258%20commits-orange.svg" alt=""></a>
+
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Groovy-67%20commits-orange.svg" alt=""></a>
+
 <a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/TeX-9%20commits-orange.svg" alt=""></a>
+
 [![HitCount](http://hits.dwyl.com/exequielrafaela/exequielrafaela.svg)](http://hits.dwyl.com/exequielrafaela/exequielrafaela)
 
 ---
