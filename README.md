@@ -4,7 +4,7 @@
  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="128">
  Hey there, I'm Exequiel 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true" width="24px">
  👨‍💻
 </h1>
 <p align="center">
