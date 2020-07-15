@@ -1,5 +1,5 @@
 <h1 align="center"> 
- <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="124">
+ <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="128">
  Hey there, I'm Exequiel 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -12,6 +12,8 @@
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero">StackOverflow</a> •
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> 
 </p>
+
+<img align='right' src="https://cliply.co/wp-content/uploads/2019/03/371903250_ROCKET_LAUNCH_400px.gif" width="200">
 
 <h2 align="center"> 
  Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com.com">Binbash</a> 🚀☁️✨</h2>
@@ -31,6 +33,8 @@ He loves learning as much as he enjoys teaching.
 
 ---
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+<img align='right' src="https://cliply.co/wp-content/uploads/2019/09/371909290_ROCKET_400px.gif" width="200">
 
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
 - [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
