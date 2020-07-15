@@ -1,9 +1,9 @@
 <img align='right' src="https://cliply.co/wp-content/uploads/2019/03/371903250_ROCKET_LAUNCH_400px.gif" width="200">
 
 <h1 align="center"> 
- <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="128">
+ <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/pacman.svg?raw=true?sanitize=true" width="128">
  Hey there, I'm Exequiel 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+ <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true" width="29px">
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true" width="24px">
  👨‍💻
 </h1>
