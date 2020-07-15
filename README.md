@@ -40,3 +40,5 @@ He loves learning as much as he enjoys teaching.
 - [x] 🔭 I’m currently working on https://leveverage.binbash.com.ar
 - [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
 - [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
+
+[![HitCount](http://hits.dwyl.com/exequielrafaela/exequielrafaela.svg)](http://hits.dwyl.com/exequielrafaela/exequielrafaela)
