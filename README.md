@@ -1,10 +1,10 @@
-<img align='right' src="https://cliply.co/wp-content/uploads/2019/03/371903250_ROCKET_LAUNCH_400px.gif" width="200">
+<img align='right' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_launch.gif?raw=true?sanitize=true" width="200">
 
 <h1 align="center"> 
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/pacman.svg?raw=true?sanitize=true" width="128">
  Hey there, I'm Exequiel 
- <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true" width="29px">
- <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true" width="24px">
+ <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true?sanitize=true" width="29px">
+ <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
  👨‍💻
 </h1>
 <p align="center">
@@ -43,4 +43,4 @@ He loves learning as much as he enjoys teaching.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-<img align='left' src="https://cliply.co/wp-content/uploads/2019/09/371909290_ROCKET_400px.gif" width="200">
+<img align='left' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_flying.gif?raw=true?sanitize=true" width="200">
