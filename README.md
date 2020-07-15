@@ -1,6 +1,7 @@
-<h1 align="center"> Hey there, I'm Exequiel 
+<h1 align="center"> 
+ <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="48">
+ Hey there, I'm Exequiel 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
- <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="32">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
  👨‍💻
 </h1>
