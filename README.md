@@ -32,9 +32,6 @@ Multicultural and foreign experiences have endowed him with proven communication
 He loves learning as much as he enjoys teaching.
 
 ---
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
-<img align='right' src="https://cliply.co/wp-content/uploads/2019/09/371909290_ROCKET_400px.gif" width="200">
 
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
 - [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
@@ -43,3 +40,7 @@ He loves learning as much as he enjoys teaching.
 - [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
 - [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
 - [x] [![HitCount](http://hits.dwyl.com/exequielrafaela/exequielrafaela.svg)](http://hits.dwyl.com/exequielrafaela/exequielrafaela)
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+<img align='center' src="https://cliply.co/wp-content/uploads/2019/09/371909290_ROCKET_400px.gif" width="200">
