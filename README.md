@@ -31,9 +31,12 @@ He loves learning as much as he enjoys teaching.
 ---
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/0)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/0)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/1)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/1)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/2)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/2)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/3)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/3)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/4)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/4)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/5)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/5)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/6)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/6)[![](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/images/7)](https://sourcerer.io/fame/exequielrafaela/exequielrafaela/exequielrafaela.github.io/links/7)
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://sourcerer.io/exequielrafaela"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+<a href="https://sourcerer.io/exequielrafaela"><img src="https://avatars2.githubusercontent.com/u/18539704?v=4" height="50px" width="50px" alt=""/></a>
+<a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Python-309%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Shell-258%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/Groovy-67%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/exequielrafaela"><img src="https://img.shields.io/badge/TeX-9%20commits-orange.svg" alt=""></a>
 
 ---
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
