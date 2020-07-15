@@ -1,5 +1,4 @@
 <h1 align="center"> 
- <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="48">
  Hey there, I'm Exequiel 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -13,7 +12,9 @@
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> 
 </p>
 
-<h2 align="center"> Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com.com">Binbash</a> 🚀☁️✨</h2>
+<h2 align="center"> 
+ <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="48">
+ Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com.com">Binbash</a> 🚀☁️✨</h2>
 <p align="center">
   <a href="https://leverage.binbash.com.com">Our Product</a> •
   <a href="https://github.com/binbashar">Github Organization</a> •
