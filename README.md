@@ -1,7 +1,6 @@
 <img align='right' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_launch.gif?raw=true?sanitize=true" width="200">
 
 <h1 align="center"> 
- <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/pacman.svg?raw=true?sanitize=true" width="128">
  Hey there, I'm Exequiel 
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true?sanitize=true" width="29px">
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
