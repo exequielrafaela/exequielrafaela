@@ -42,10 +42,10 @@ He loves learning as much as he enjoys teaching.
 - [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<a href="https://sourcerer.io/exequielrafaela">
 <img align='right' 
      src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/sourcerer-io-profile.png?raw=true?sanitize=true" 
      width="150">
 </a>
 
 <img align='left' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_flying.gif?raw=true?sanitize=true" width="200">
-<a href="https://sourcerer.io/exequielrafaela">
