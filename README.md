@@ -24,7 +24,7 @@
 </p>
 
 <h2 align="left"> 
- Founder &nbsp&nbsp&nbsp&nbsp | Open Source Developer @ <a href="https://www.cronops.io">CronOps</a> ♾✨</h2>
+ Founder &nbsp&nbsp&nbsp&nbsp&nbsp | Open Source Developer @ <a href="https://www.cronops.io">CronOps</a> ♾✨</h2>
 <p align="left">
   <a href="https://devopstips.cronops.io">Our Product</a> •
   <a href="https://github.com/cronops-io">Github Organization</a>
