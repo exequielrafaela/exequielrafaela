@@ -1,12 +1,12 @@
 <img align='right' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_launch.gif?raw=true?sanitize=true" width="200">
 
-<h1 align="center"> 
+<h1 align="left"> 
  Hey there, I'm Exequiel 
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true?sanitize=true" width="29px">
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
  👨‍💻
 </h1>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
