@@ -15,7 +15,7 @@
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
-<h2 align="center"> 
+<h2 align="left"> 
  Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com">Binbash</a> 🚀☁️✨</h2>
 <p align="center">
   <a href="https://leverage.binbash.com">Our Product</a> •
@@ -23,8 +23,8 @@
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
 </p>
 
-<h2 align="center"> 
- Founder | Open Source Developer @ <a href="https://www.cronops.io">cronOps</a> ♾✨</h2>
+<h2 align="left"> 
+ Founder | Open Source Developer @ <a href="https://www.cronops.io">CronOps</a> ♾✨</h2>
 <p align="center">
   <a href="https://devopstips.cronops.io">Our Product</a> •
   <a href="https://github.com/cronops-io">Github Organization</a> •
