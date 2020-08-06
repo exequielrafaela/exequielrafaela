@@ -17,7 +17,7 @@
 
 <h2 align="left"> 
  Co-Founder | DevOps Cloud Engineer @ <a href="https://www.binbash.com">Binbash</a> 🚀☁️✨</h2>
-<p align="center">
+<p align="left">
   <a href="https://leverage.binbash.com">Our Product</a> •
   <a href="https://github.com/binbashar">Github Organization</a> •
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
@@ -25,7 +25,7 @@
 
 <h2 align="left"> 
  Founder | Open Source Developer @ <a href="https://www.cronops.io">CronOps</a> ♾✨</h2>
-<p align="center">
+<p align="left">
   <a href="https://devopstips.cronops.io">Our Product</a> •
   <a href="https://github.com/cronops-io">Github Organization</a> •
 </p>
