@@ -27,7 +27,7 @@
  Founder | Open Source Developer @ <a href="https://www.cronops.io">CronOps</a> ♾✨</h2>
 <p align="left">
   <a href="https://devopstips.cronops.io">Our Product</a> •
-  <a href="https://github.com/cronops-io">Github Organization</a> •
+  <a href="https://github.com/cronops-io">Github Organization</a>
 </p>
 
 ---
