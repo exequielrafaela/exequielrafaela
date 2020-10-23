@@ -1,6 +1,5 @@
 <h2 align="left"> 
  Hey there, I'm Exequiel 
- <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true?sanitize=true" width="29px">
  👨‍💻
 </h2>
 <p align="left">
