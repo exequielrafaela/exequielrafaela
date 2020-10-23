@@ -13,15 +13,9 @@
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
-_
 
-[![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar)
+[![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar) | [Our Product](https://leverage.binbash.com) | href="">[Github Organization](https://github.com/binbashar) | [DockerHub](https://cloud.docker.com/u/binbash/repository/list) 
 
-<p align="left">
-  <a href="https://leverage.binbash.com">Our Product</a> •
-  <a href="https://github.com/binbashar">Github Organization</a> •
-  <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
-</p>
 
 [![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io)
 
