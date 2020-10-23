@@ -7,7 +7,7 @@
  👨‍💻
 </h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
+  http://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.linkedin.com/in/barrireroexequiel&link=https://www.linkedin.com/in/barrireroexequiel •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile">StackOverflow</a> •
