@@ -6,7 +6,7 @@
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
  👨‍💻
 </h2>
-<p align="left">
+<p style="font-size:20px" align="left">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
@@ -14,6 +14,8 @@
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
+
+---
 
 ![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.binbash.com&link=https://www.binbash.com)
 
