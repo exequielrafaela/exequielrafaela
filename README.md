@@ -1,5 +1,3 @@
-<img align='right' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_launch.gif?raw=true?sanitize=true" width="200">
-
 <h2 align="left"> 
  Hey there, I'm Exequiel 
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true?sanitize=true" width="29px">
