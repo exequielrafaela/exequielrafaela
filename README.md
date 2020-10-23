@@ -4,13 +4,14 @@
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
  👨‍💻
 </h2>
-
-![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.linkedin.com/in/barrireroexequiel&link=https://www.linkedin.com/in/barrireroexequiel)
-![Dev.to Follow](http://img.shields.io/badge/Dev.to-follow-blue?style=for-the-badge&logo=dev.to&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://dev.to/exequielrafaela&link=https://dev.to/exequielrafaela)
-![Medium Follow](http://img.shields.io/badge/Medium-follow-blue?style=for-the-badge&logo=medium&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://medium.com/@exequiel.barrirero&link=https://medium.com/@exequiel.barrirero)
-![Stackoverflow Follow](http://img.shields.io/badge/Stackoverflow-follow-blue?style=for-the-badge&logo=stackoverflow&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile&link=https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile)
-![aCloudGuru Follow](http://img.shields.io/badge/CloudGuru-follow-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://learn.acloud.guru/profile/exequielrafaela&link=https://learn.acloud.guru/profile/exequielrafaela)
-![Sourcerer.io Follow](http://img.shields.io/badge/Sourcerer.io-follow-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://sourcerer.io/exequielrafaela">Sourcerer.io&link=https://sourcerer.io/exequielrafaela">Sourcerer.io)
+<p align="left">
+  <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
+  <a href="https://dev.to/exequielrafaela">dev.to</a> •
+  <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
+  <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile">StackOverflow</a> •
+  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
+  <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
+</p>
 
 [![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar)
 
