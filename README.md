@@ -21,7 +21,7 @@
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
 </p>
 
-[![CronOps](https://img.shields.io/badge/Co%20Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.cronops.io)
+[![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.cronops.io)
 
   <a href="https://devopstips.cronops.io">Our Product</a> •
   <a href="https://github.com/cronops-io">Github Organization</a>
