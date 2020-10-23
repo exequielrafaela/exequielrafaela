@@ -16,7 +16,7 @@
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
-![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.binbash.com&link=https://www.binbash.com)
+![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.binbash.com.ar&link=https://www.binbash.com.ar)
 
 <p align="left">
   <a href="https://leverage.binbash.com">Our Product</a> •
