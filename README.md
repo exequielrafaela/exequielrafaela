@@ -16,7 +16,7 @@
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
-![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.binbash.com.ar&link=https://www.binbash.com.ar)
+[![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar)
 
 <p align="left">
   <a href="https://leverage.binbash.com">Our Product</a> •
@@ -24,7 +24,7 @@
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
 </p>
 
-![CronOps](https://img.shields.io/badge/Co%20Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.cronops.io&link=https://www.cronops.io)
+[![CronOps](https://img.shields.io/badge/Co%20Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.cronops.io)
 
   <a href="https://devopstips.cronops.io">Our Product</a> •
   <a href="https://github.com/cronops-io">Github Organization</a>
