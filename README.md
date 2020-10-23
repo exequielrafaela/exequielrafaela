@@ -14,14 +14,10 @@
 </p>
 
 
-[![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar) [Our Product](https://leverage.binbash.com) | [Github Organization](https://github.com/binbashar) | [DockerHub](https://cloud.docker.com/u/binbash/repository/list) 
+[![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar) [Our Product](https://leverage.binbash.com) • [Github Organization](https://github.com/binbashar) • [DockerHub](https://cloud.docker.com/u/binbash/repository/list) 
 
 
-[![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io)
-
-  <a href="https://devopstips.cronops.io">Our Product</a> •
-  <a href="https://github.com/cronops-io">Github Organization</a>
-</p>
+[![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io) [Our Product](https://devopstips.cronops.io) • [Github Organization](https://github.com/cronops-io)
 
 ---
 
