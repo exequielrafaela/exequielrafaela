@@ -6,8 +6,10 @@
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
  👨‍💻
 </h1>
+
+https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.linkedin.com/in/barrireroexequiel&link=https://www.linkedin.com/in/barrireroexequiel
+
 <p align="left">
-  http://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.linkedin.com/in/barrireroexequiel&link=https://www.linkedin.com/in/barrireroexequiel •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile">StackOverflow</a> •
