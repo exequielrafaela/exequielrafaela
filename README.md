@@ -1,11 +1,11 @@
 <img align='right' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_launch.gif?raw=true?sanitize=true" width="200">
 
-<h1 align="left"> 
+<h2 align="left"> 
  Hey there, I'm Exequiel 
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/hi.gif?raw=true?sanitize=true" width="29px">
  <img src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/earth.gif?raw=true?sanitize=true" width="24px">
  👨‍💻
-</h1>
+</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
@@ -23,9 +23,8 @@
   <a href="https://cloud.docker.com/u/binbash/repository/list">DockerHub</a> 
 </p>
 
-<h2 align="left"> 
- Founder &nbsp&nbsp&nbsp&nbsp&nbsp | Open Source Developer @ <a href="https://www.cronops.io">CronOps</a> ♾✨</h2>
-<p align="left">
+![CronOps](https://img.shields.io/badge/Co%20Founder%20&%20DEVOPS%20COACH-@CronOps-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.cronops.io&link=https://www.cronops.io)
+
   <a href="https://devopstips.cronops.io">Our Product</a> •
   <a href="https://github.com/cronops-io">Github Organization</a>
 </p>
