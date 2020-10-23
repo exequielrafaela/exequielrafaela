@@ -7,7 +7,7 @@
  👨‍💻
 </h1>
 
-https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.linkedin.com/in/barrireroexequiel&link=https://www.linkedin.com/in/barrireroexequiel
+![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda&link=https://www.linkedin.com/in/barrireroexequiel&link=https://www.linkedin.com/in/barrireroexequiel)
 
 <p align="left">
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
