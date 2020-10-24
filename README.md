@@ -36,11 +36,11 @@ He loves learning as much as he enjoys teaching.
 ---
 
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
-- [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring
+- [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring and anything DevOps related
 - [x] 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
 - [x] 🔭 I’m currently working on https://leveverage.binbash.com.ar
-- [x] 🌱 I’m currently learning [ArgoCD](https://argoproj.github.io/argo-cd/)
-- [x] ⚡ Fun fact: I play Table Tennis and do Capoeira
+- [x] 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) & [ArgoCD](https://argoproj.github.io/argo-cd/)
+- [x] ⚡ Fun fact: I play Table Tennis, do Capoeira and just started taking Surf clases :ocean:🏄:ocean: 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
 
