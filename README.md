@@ -11,8 +11,6 @@
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
-
 [![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar) 
 - [x] [Our Product](https://leverage.binbash.com) | [Github Organization](https://github.com/binbashar)
 
@@ -45,4 +43,4 @@ He loves learning as much as he enjoys teaching.
 - [x] 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
 - [x] 🔭 I’m currently working on https://leverage.binbash.com.ar
 - [x] 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) & [ArgoCD](https://argoproj.github.io/argo-cd/)
-- [x] ⚡ Fun fact: I play Table Tennis, do Capoeira and just started taking Surf & Kite-Surf clases :ocean:🏄:ocean: 
+- [x] ⚡ Fun fact: I play Table Tennis, do Capoeira and just started taking Surf & Kite-Surf clases :ocean:🏄:ocean:
