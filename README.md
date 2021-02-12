@@ -11,6 +11,7 @@
   <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
 </p>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
 
 [![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar) 
 - [x] [Our Product](https://leverage.binbash.com) | [Github Organization](https://github.com/binbashar)
@@ -18,8 +19,6 @@
 
 [![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io) 
 - [x] [Our Product](https://devopstips.cronops.io) | [Github Organization](https://github.com/cronops-io)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
 
 ---
 
