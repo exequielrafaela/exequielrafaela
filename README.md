@@ -46,4 +46,7 @@ He loves learning as much as he enjoys teaching.
 
 <img align='left' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_flying.gif?raw=true?sanitize=true" width="250">
 
+![Metrics](https://metrics.lecoq.io/exequielrafaela)
+---
+![Metrics](https://metrics.lecoq.io/binbashar)
 
