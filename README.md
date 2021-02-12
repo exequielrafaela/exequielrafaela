@@ -49,6 +49,4 @@ He loves learning as much as he enjoys teaching.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
 
 <img align='left' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_flying.gif?raw=true?sanitize=true" width="250">
- 
----
 
