@@ -38,9 +38,8 @@ He loves learning as much as he enjoys teaching.
 
 ## :bar_chart: Github Profile Metrics
 ![Metrics](https://metrics.lecoq.io/exequielrafaela)
----
 
-## :ledger: Fun Facts
+## :dark_sunglasses: Fun Facts
 - [x] 👨‍💻 I’m always willing to collaborate on Open Source Projects
 - [x] 💬 Ask me about Linux, Computer Security, Bash, AWS, Terraform, Ansible, Docker, K8s, Helm, Jenkins, Networking, Monitoring and anything DevOps related
 - [x] 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
