@@ -19,7 +19,6 @@
 [![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io) 
 - [x] [Our Product](https://devopstips.cronops.io) | [Github Organization](https://github.com/cronops-io)
 
-![Metrics](https://metrics.lecoq.io/exequielrafaela)
 
 ---
 
@@ -34,6 +33,8 @@
 Multicultural and foreign experiences have endowed him with proven communication skills. He can speak three languages fluently, effectively use active listening to improve teamwork, knowledge sharing and collaborate with upper management.
 
 He loves learning as much as he enjoys teaching.
+
+![Metrics](https://metrics.lecoq.io/exequielrafaela)
 
 ---
 
