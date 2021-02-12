@@ -34,6 +34,8 @@ Multicultural and foreign experiences have endowed him with proven communication
 
 He loves learning as much as he enjoys teaching.
 
+---
+# :bar_chart: Github Profile Metrics
 ![Metrics](https://metrics.lecoq.io/exequielrafaela)
 
 ---
