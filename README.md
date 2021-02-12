@@ -19,6 +19,7 @@
 [![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io) 
 - [x] [Our Product](https://devopstips.cronops.io) | [Github Organization](https://github.com/cronops-io)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
 
 ---
 
@@ -46,8 +47,3 @@ He loves learning as much as he enjoys teaching.
 - [x] 🔭 I’m currently working on https://leverage.binbash.com.ar
 - [x] 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) & [ArgoCD](https://argoproj.github.io/argo-cd/)
 - [x] ⚡ Fun fact: I play Table Tennis, do Capoeira and just started taking Surf & Kite-Surf clases :ocean:🏄:ocean: 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
-
-<img align='left' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_flying.gif?raw=true?sanitize=true" width="250">
-
