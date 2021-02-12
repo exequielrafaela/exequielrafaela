@@ -19,6 +19,8 @@
 [![CronOps](https://img.shields.io/badge/Founder-@CronOps-blue?style=for-the-badge&logo=cloudbees&logoColor=64ffda&logoWidth=40&labelColor=172a45&color=64ffda)](https://www.cronops.io) 
 - [x] [Our Product](https://devopstips.cronops.io) | [Github Organization](https://github.com/cronops-io)
 
+![Metrics](https://metrics.lecoq.io/exequielrafaela)
+
 ---
 
 <a href="https://sourcerer.io/exequielrafaela">
@@ -45,8 +47,4 @@ He loves learning as much as he enjoys teaching.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=exequielrafaela&show_icons=true&title_color=ccd6f6&icon_color=64ffda&text_color=64ffda&bg_color=172a45">
 
 <img align='left' src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/rocket_flying.gif?raw=true?sanitize=true" width="250">
-
----
-# Github Profile Metrics 
-![Metrics](https://metrics.lecoq.io/exequielrafaela)
 
