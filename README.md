@@ -7,8 +7,7 @@
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
   <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile">StackOverflow</a> •
-  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> •
-  <a href="https://sourcerer.io/exequielrafaela">Sourcerer.io</a>
+  <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> 
 </p>
 
 [![Binbash](https://img.shields.io/badge/Co%20Founder-@Binbash-blue?style=for-the-badge&logo=icloud&logoColor=64ffda&logoWidth=20&labelColor=172a45&color=64ffda)](https://www.binbash.com.ar) 
@@ -19,12 +18,6 @@
 - [x] [Our Product](https://devopstips.cronops.io) | [Github Organization](https://github.com/cronops-io)
 
 ---
-
-<a href="https://sourcerer.io/exequielrafaela">
-<img align='right' 
-     src="https://github.com/exequielrafaela/exequielrafaela/blob/master/assets/images/sourcerer-io-profile.png?raw=true?sanitize=true" 
-     width="150">
-</a>
 
 **Exequiel** is an IT passionate Telecommunications Engineer with over 10 years of professional experience administering, configuring, monitoring and supporting IT Production Infrastructures. During his career he has worked in several Mobile Communications, VoIP Security and Software development projects mainly under Open-Source Linux techs as Support Engineer, SysAdmin, DevOps, Cloud Solutions Architect, IP/MPLS Project Leader and Certification Tech Instructor.
 
