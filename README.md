@@ -19,7 +19,7 @@
 
 ---
 
-**Exequiel** is an IT passionate Telecommunications Engineer with over 10 years of professional experience administering, configuring, monitoring and supporting IT Production Infrastructures. During his career he has worked in several Mobile Communications, VoIP Security and Software development projects mainly under Open-Source Linux techs as Support Engineer, SysAdmin, DevOps, Cloud Solutions Architect, IP/MPLS Project Leader and Certification Tech Instructor.
+**Exequiel** is an IT passionate Telecommunications Engineer with over 10 years of professional experience administering, configuring, monitoring and supporting IT Production Infrastructures. During his career he has worked in several Mobile Communications, VoIP Security and Software development projects mainly under Open-Source Linux techs as Support Engineer, SysAdmin, DevOps, Cloud Solutions Architect, IP/MPLS Project Leader, Product Owner and Certification Tech Instructor.
 
 Multicultural and foreign experiences have endowed him with proven communication skills. He can speak three languages fluently, effectively use active listening to improve teamwork, knowledge sharing and collaborate with upper management.
 
