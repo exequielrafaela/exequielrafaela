@@ -36,4 +36,4 @@ He loves learning as much as he enjoys teaching.
 - [x] 📫 How to reach me: DM [@LinkedIn](https://www.linkedin.com/in/barrireroexequiel) || Email: info@binbash.com.ar
 - [x] 🔭 I’m currently working on https://leverage.binbash.com.ar
 - [x] 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) & [ArgoCD](https://argoproj.github.io/argo-cd/)
-- [x] ⚡ Fun fact: I play Table Tennis, do Capoeira, practive surf and I'm taking Kite-Surf clases :ocean:🏄:ocean:
+- [x] ⚡ Fun fact: I play Table Tennis, do Capoeira, practice surf and I'm taking Kite-Surf clases :ocean:🏄:ocean:
