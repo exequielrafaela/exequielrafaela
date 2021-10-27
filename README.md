@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/barrireroexequiel/">LinkedIn</a> •
   <a href="https://dev.to/exequielrafaela">dev.to</a> •
-  <a href="https://medium.com/@exequiel.barrirero">Medium</a> •
+  <a href="https://cronops.medium.com/">Medium</a> •
   <a href="https://stackoverflow.com/users/2033312/exequiel-barrirero?tab=profile">StackOverflow</a> •
   <a href="https://learn.acloud.guru/profile/exequielrafaela">A Cloud Guru</a> 
 </p>
